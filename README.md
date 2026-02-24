@@ -39,6 +39,7 @@ Edge Device Deployment
 LLM-Based Manufacturing Intelligence Module
 
 🔬 Technical Components
+
 1️⃣ Defect Detection Module
 
 Convolutional Neural Networks (CNN)
